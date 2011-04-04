@@ -104,8 +104,8 @@ que sera devuelta la respuesta.
 Como ya visto, existen otras cabeceras. Muchas de ellas son realmente funcionales y pueden
 ser usadas, por ejemplo, para manejar/contruir y poderoso sistema de cache.
 
-HTTP and Client-Server Communication
-------------------------------------
+HTTP y la Comunicacion Cliente - Servidor
+-----------------------------------------
 
 This request-response exchange is the fundamental process that drives all
 communication on the World Wide Web. And as important and powerful as this
